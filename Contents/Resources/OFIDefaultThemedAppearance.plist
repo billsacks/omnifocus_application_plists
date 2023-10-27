@@ -6,7 +6,7 @@
         <key>ContentBackgroundColor</key>
         <dict>
             <key>w</key>
-            <real>1.0</real>
+            <real>0.96</real>
             <key>a</key>
             <real>1.0</real>
         </dict>
@@ -597,7 +597,7 @@
         <key>OFIFadedTextColor</key>
         <dict>
             <key>w</key>
-            <real>0.42</real>
+            <real>0.22</real>
             <key>a</key>
             <integer>1</integer>
         </dict>
@@ -658,7 +658,7 @@
         <key>OFIContentBlockedTaskTitleColor</key>
         <dict>
             <key>w</key>
-            <real>0.65</real>
+            <real>0.45</real>
             <key>a</key>
             <integer>1</integer>
         </dict>
@@ -687,10 +687,14 @@
         <!-- Derived title text colors -->
         <key>OFIContentAvailableTaskTitleColor</key>
         <dict>
-            <key>w</key>
-            <real>0.0</real>
-            <key>a</key>
-            <integer>1</integer>
+          <key>h</key>
+          <real>0.67</real>
+          <key>s</key>
+          <real>1.0</real>
+          <key>b</key>
+          <real>0.4</real>
+          <key>a</key>
+          <real>1.0</real>
         </dict>
         <key>OFIContentCompletedTaskTitleColor</key>
         <dict>
