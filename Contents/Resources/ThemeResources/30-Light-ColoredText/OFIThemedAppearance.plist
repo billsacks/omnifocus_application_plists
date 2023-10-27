@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OFIContentDueSoonTaskTitleColor</key>
+	<dict>
+        <key>h</key>
+        <real>0.11</real>
+        <key>s</key>
+        <real>0.74</real>
+        <key>b</key>
+        <real>0.84</real>
+        <key>a</key>
+        <real>1.00</real>
+	</dict>
+	<key>OFIContentNextTaskTitleColor</key>
+	<dict>
+        <key>h</key>
+        <real>0.78</real>
+        <key>s</key>
+        <real>0.50</real>
+        <key>b</key>
+        <real>0.84</real>
+        <key>a</key>
+        <real>1.00</real>
+	</dict>
+	<key>OFIContentOverdueTaskTitleColor</key>
+	<dict>
+        <key>h</key>
+        <real>0.97</real>
+        <key>s</key>
+        <real>0.59</real>
+        <key>b</key>
+        <real>0.94</real>
+        <key>a</key>
+        <real>1.00</real>
+	</dict>
+</dict>
+</plist>
