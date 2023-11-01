@@ -5,11 +5,11 @@
 	<key>OFIContentDueSoonTaskTitleColor</key>
 	<dict>
         <key>h</key>
-        <real>0.11</real>
+        <real>0.07</real>
         <key>s</key>
-        <real>0.74</real>
+        <real>1.0</real>
         <key>b</key>
-        <real>0.84</real>
+        <real>0.85</real>
         <key>a</key>
         <real>1.00</real>
 	</dict>
@@ -29,9 +29,9 @@
         <key>h</key>
         <real>0.97</real>
         <key>s</key>
-        <real>0.59</real>
+        <real>1.0</real>
         <key>b</key>
-        <real>0.94</real>
+        <real>0.66</real>
         <key>a</key>
         <real>1.00</real>
 	</dict>
